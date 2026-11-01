@@ -14,6 +14,12 @@ The application returns an estimated score on a 0–10 scale. The result reflect
 - Offer a browser-based form for entering student information and viewing results.
 - Demonstrate the connection between data science, backend services, and frontend development.
 
+## Project Interface
+
+![Mental Health Score dashboard](screenshots/mental-health-dashboard.png)
+
+![Example mental health score result](screenshots/mental-health-score-result.png)
+
 ## Data and Prediction Inputs
 
 The included dataset contains 5,000 student records and 13 columns. The target column is `Mental_Health_Score`. The remaining columns describe student characteristics and reported habits:
