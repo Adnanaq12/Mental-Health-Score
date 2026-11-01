@@ -1,0 +1,18 @@
+# Python virtual environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Local data: confirm privacy and sharing rights before publishing
+Student Social Media And Mental Health Impact.csv
+
+# Jupyter and operating-system files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
